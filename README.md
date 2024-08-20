@@ -8,7 +8,7 @@ This project is to create a landing page for a website. The goal is to utilize t
 
 ## Visuals
 
-Photo by <a href="https://unsplash.com/@girlwithredhat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Girl with red hat</a> on <a href="https://unsplash.com/photos/a-group-of-eggs-with-faces-drawn-on-them-pwBlatTLAMA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+Photos by <a href="https://unsplash.com/@girlwithredhat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Girl with red hat</a> on <a href="https://unsplash.com/photos/a-group-of-eggs-with-faces-drawn-on-them-pwBlatTLAMA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
 
 ## Installations
